@@ -9,7 +9,7 @@ This project showcases an interactive **Power BI Dashboard** built using the *Su
 - **Dashboard Title:** ADITYA ENTERPRISES  
 - **Tools Used:** Power BI, CSV (Kaggle Superstore Dataset), GitHub  
 - **Data Range:** 2014 - 2017  
-- **Data Source:** [Superstore Dataset on Kaggle](https://www.kaggle.com/datasets)
+- **Data Source:** [Superstore Dataset on Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?resource=download))
 
 ---
 
