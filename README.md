@@ -37,7 +37,7 @@ This project showcases an interactive **Power BI Dashboard** built using the *Su
 
 ## 📽️ Demo & Files
 
-- 📸 [**Dashboard Image (PDF)**](https://github.com/Aadiv2104/SuperStore-Dashboard---PowerBI/blob/main/Dashboard_Image.pdf)  
+- 📸 [**Dashboard Image (PDF)**](https://github.com/Aadiv2104/SuperStore-Dashboard---PowerBI/blob/main/SuperStore%20Dashboard.pdf)  
 - 🎥 [**Screen Recording (Video)**](https://github.com/Aadiv2104/SuperStore-Dashboard---PowerBI/blob/main/Dashboard_Screen_Recording.mp4)  
 - 📁 [**Dataset (CSV)**](https://github.com/Aadiv2104/SuperStore-Dashboard---PowerBI/blob/main/superstore_data.csv)
 
